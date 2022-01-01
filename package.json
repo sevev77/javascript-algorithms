@@ -1,0 +1,29 @@
+{
+  "name": "javascript-algorithms",
+  "version": "1.0.0",
+  "description": "copy test cases from https://github.com/trekhleb/javascript-algorithms and implement on our own.",
+  "main": "index.js",
+  "dependencies": {
+    "@babel/core": "^7.16.5",
+    "@babel/node": "^7.16.5",
+    "@babel/preset-env": "^7.16.5",
+    "babel-jest": "^27.4.5",
+    "jest": "^27.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest",
+    "start": "babel-node src/data-structures/linked-list/LinkedList"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sevev77/javascript-algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sevev77/javascript-algorithms/issues"
+  },
+  "homepage": "https://github.com/sevev77/javascript-algorithms#readme"
+}
